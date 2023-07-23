@@ -13,7 +13,7 @@
 </div>
 
 <h2> About Me </h2>
-<p> Hi there, my name is Alexandra. I am deeply passionate about data science and AI. Impelled by my fascination with data, I enrolled in a Data Science bootcamp, where I discovered my love for programming and the endless potential of Machine Learning tools. </p> 
+<p> Hi there, my name is Alexandra. I am deeply passionate about data science and AI. Impelled by my fascination with data, I enrolled in a Data Science bootcamp in 2022, where I discovered my love for programming and the endless potential of Machine Learning tools. </p> 
 
 
 
